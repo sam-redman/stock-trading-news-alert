@@ -1,0 +1,2 @@
+STOCK_NAME = "BB"
+COMPANY_NAME = "BlackBerry"
