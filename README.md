@@ -56,7 +56,7 @@ python main.py
 ## Usage
 The program runs once a day, every weekday at US market open (converted to UK time) - gathering information about the stock closing price from the previous day and the day  before yesterday. If the stock has fluctuated in price by at least 2% then an SMS message is sent to your phone with an alert and some news regarding the stock.
 
-![](IMG_2169.jpg)
+![](docs/images/IMG_2169.jpg)
 
 ## Deployment
 If you are hosting externally then specify all environment variables on the external platform. You should never upload a private token directly to GitHub or a third-party host.
