@@ -1,4 +1,4 @@
-twilio~=7.9.0
+twilio~=7.9.1
 requests
 python-dotenv
 schedule
